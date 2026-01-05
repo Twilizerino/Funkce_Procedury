@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funkce_Procedury", "Funkce_Procedury\Funkce_Procedury.csproj", "{BED409D4-0D83-4955-9A38-6CC602F5CC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED409D4-0D83-4955-9A38-6CC602F5CC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED409D4-0D83-4955-9A38-6CC602F5CC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED409D4-0D83-4955-9A38-6CC602F5CC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED409D4-0D83-4955-9A38-6CC602F5CC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4D53DA5-A9DC-4463-A465-77593BDAB2FE}
+	EndGlobalSection
+EndGlobal
